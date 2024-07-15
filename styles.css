@@ -128,3 +128,66 @@ body header nav {
     text-align: center;
     height: auto;
 }
+.target {
+    margin: 200px;
+}
+.target-title {
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+}
+.target-subtitle {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    padding: 20px 200px;
+}
+.cards-container-1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.cards1 {
+    width: 364px;
+    height: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    max-width: fit-content;
+    max-width: fit-content;
+
+} 
+.bg1 {
+    background-color: rgba(255, 76, 30, 0.05);
+}
+.bg2 {
+    background-color: rgba(0, 76, 232, 0.05);
+}
+.bg3 {
+    background-color: rgba(255, 223, 0, 0.05);
+}
+.cards-container {
+    display: block;
+}
+.cards {
+    margin: 75px 1px;
+    border-color: rgba(13, 19, 33, 0.15);
+    border-style: solid;
+    border-radius: 16px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.card-title {
+    font-weight: 900;
+    font-size: 24px;
+}
+.card-subtitle {
+    font-size: 16px;
+    line-height: 26px;
+}
+a {
+    font-weight: bold;
+    color: #0D1321;
+}
