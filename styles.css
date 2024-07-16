@@ -194,6 +194,7 @@ a {
 }
 .card-img {
     align-content: center;
+    align-items: center;
 }
 .x {
     padding-top: 141px;
